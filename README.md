@@ -1,4 +1,4 @@
-# Google Sites Classic: AddThis Share / Follow Buttons #
+# Google Sites Classic: Share This Page to Social Media #
 
 1. Upload XML to the **"Attachments"** page in Google Sites Classic.
 2. **Right click** the attachments **download** link and copy source to get the XML URL
@@ -9,4 +9,3 @@
 8. **Set properties > Okay**
 
 Visit Wiki for more information
-# google-sites-classic-ez-share-this-page-to-social-media
